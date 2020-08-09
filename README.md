@@ -1,5 +1,5 @@
 <h1>Newsletter Website</h1>
-
+<a href="https://newslettersample.herokuapp.com/">Click here to view the page!</a><br>
 <p>This is a sample website for email marketing for newsletter, brochures etc.</p><br>
 
 <h3><i>Features:</i></h3><br>
